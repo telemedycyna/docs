@@ -2,7 +2,7 @@
 telemedycyna w Polsce, aktualne oferty 
 
 
-[Telemedycyna – nowa usługa w serwisie internetowym iPKO | ISB Zdrowie](https://www.isbzdrowie.pl/2023/04/telemedycyna-nowa-usluga-w-serwisie-internetowym-ipko/)
+## [Telemedycyna – nowa usługa w serwisie internetowym iPKO | ISB Zdrowie](https://www.isbzdrowie.pl/2023/04/telemedycyna-nowa-usluga-w-serwisie-internetowym-ipko/)
 
 > W serwisie internetowym iPKO klienci PKO Banku Polskiego można teraz zamówić usługę konsultacji lekarskich przez internet i telefon w dwóch wariantach: Telemedycyna lub Telemedycyna+ za – odpowiednio 10 zł lub 20 zł miesięcznie. Umowę z dostawcą (firmą Telmedicin) za pośrednictwem spółki PKO Finat zawiera się na 6 miesięcy z automatycznym przedłużeniem na kolejne pół roku.
 > 
@@ -15,20 +15,25 @@ telemedycyna w Polsce, aktualne oferty
 > Technologicznie Telemedycyna jest pierwszym wdrożeniem w PKO Banku Polskim zrealizowanym w ramach VAS Hub. To rozwiązanie, które jest rodzajem API dla firm zewnętrznych i ułatwia obu stronom – bankowi i dostawcom – wprowadzanie w banku nowych usług dodanych, pozwala procesowo skrócić czas ich wdrożenia oraz zmniejszyć koszty tego procesu.
 
 
-[Podstawowa Opieka Zdrowotna](https://telemedi.com/pl/lp/poz/)
+## [Podstawowa Opieka Zdrowotna](https://telemedi.com/pl/lp/poz/)
 
 
 Co jest dostępne bezpłatnie w ramach mojego pakietu?
 
-    Wizyty stacjonarne u lekarza pierwszego kontaktu w Przychodnia24 (bez limitu!)
-    3 świadczenia online na miesiąc (konsultacja z lekarzem, konsultaja-recepta, konsultacja-zwolnienie) na platformie Telemedi
-    Skierowania na badania laboratoryjne
-    Skierowania do specjalisty na teleporadę
++ Wizyty stacjonarne u lekarza pierwszego kontaktu w Przychodnia24 (bez limitu!)
++ 3 świadczenia online na miesiąc (konsultacja z lekarzem, konsultaja-recepta, konsultacja-zwolnienie) na platformie Telemedi
++ Skierowania na badania laboratoryjne
++ Skierowania do specjalisty na teleporadę
 
 Co mogę otrzymać podczas konsultacji online?
 
-    Receptę
-    Zwolnienie lekarskie
-    Skierowanie na telekonsultację ze specjalistą
-    Skierowanie na badania laboratoryjne
-    Skierowanie do szpitala
++ Receptę
++ Zwolnienie lekarskie
++ Skierowanie na telekonsultację ze specjalistą
++ Skierowanie na badania laboratoryjne
++ Skierowanie do szpitala
+
+
+### Dokumenty
+
++ [Artificial intelligence in disease diagnosis: a systematic literature review, synthesizing framework and future research agenda - PubMed](https://pubmed.ncbi.nlm.nih.gov/35039756/)
